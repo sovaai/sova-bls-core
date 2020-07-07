@@ -1,0 +1,1 @@
+from .dialogcore import DialogCore

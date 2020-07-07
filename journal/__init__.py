@@ -1,0 +1,2 @@
+from .journal import Journal
+
